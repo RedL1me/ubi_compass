@@ -55,18 +55,18 @@ V1 is a public knowledge platform for the startup incubator and accelerator indu
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DISC-01 | Unassigned | Pending |
-| DISC-02 | Unassigned | Pending |
-| DISC-03 | Unassigned | Pending |
-| CONT-01 | Unassigned | Pending |
-| CONT-02 | Unassigned | Pending |
-| CONT-03 | Unassigned | Pending |
-| CONT-04 | Unassigned | Pending |
-| IA-01 | Unassigned | Pending |
-| IA-02 | Unassigned | Pending |
-| IA-03 | Unassigned | Pending |
-| LEAD-01 | Unassigned | Pending |
-| LEAD-02 | Unassigned | Pending |
-| PLAT-01 | Unassigned | Pending |
-| PLAT-02 | Unassigned | Pending |
-| PLAT-03 | Unassigned | Pending |
+| DISC-01 | Phase 2 | Pending |
+| DISC-02 | Phase 2 | Pending |
+| DISC-03 | Phase 2 | Pending |
+| CONT-01 | Phase 3 | Pending |
+| CONT-02 | Phase 3 | Pending |
+| CONT-03 | Phase 3 | Pending |
+| CONT-04 | Phase 3 | Pending |
+| IA-01 | Phase 1 | Pending |
+| IA-02 | Phase 3 | Pending |
+| IA-03 | Phase 4 | Pending |
+| LEAD-01 | Phase 4 | Pending |
+| LEAD-02 | Phase 4 | Pending |
+| PLAT-01 | Phase 1 | Pending |
+| PLAT-02 | Phase 1 | Pending |
+| PLAT-03 | Phase 4 | Pending |
