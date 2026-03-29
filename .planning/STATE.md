@@ -4,14 +4,14 @@
 
 - **Project:** Compass
 - **Core value:** Users can quickly find and confidently understand authoritative incubator and accelerator terminology and related industry intelligence without insider knowledge.
-- **Current focus:** Phase 3 closeout: live GitBook reading QA and publication alignment
+- **Current focus:** Phase 4 planning and follow-through after Phase 3 readability completion
 
 ## Current Position
 
-- **Current phase:** 3 - Readable Intelligence Experience
-- **Current plan:** Phase 3 content normalization is complete in-repo, repo-side QA is clean, and the only remaining closure step is the live GitBook sync and reading QA pass
-- **Overall status:** Phase 3 in progress
-- **Progress:** 2 / 4 phases complete
+- **Current phase:** 4 - Searchable Thought Leadership Experience
+- **Current plan:** Phase 3 is complete, the live repo-backed GitBook routes are resolving, and the next step is Phase 4 planning around search, discovery, and public-facing conversion quality
+- **Overall status:** Phase 4 ready to start
+- **Progress:** 3 / 4 phases complete
 
 ## Performance Metrics
 
@@ -45,13 +45,13 @@
 
 ## Todos
 
-- Run the live GitBook sync or publish alignment step so the rebuilt repo paths resolve in the published space
-- Re-run the Phase 3 GitBook reading QA pass on representative glossary, KPI, and publication pages after sync
-- Close Phase 3 and move into Phase 4 once the live GitBook checks pass
+- Define the concrete Phase 4 plan for search quality, discovery flow, and lead-generation effectiveness
+- Run a lightweight GitBook-native search and media-render follow-up to confirm search snippets and embeds behave as expected in the live UI
+- Keep using the repo-backed GitBook structure as the canonical path for future Compass improvements
 
 ## Blockers
 
-- Live GitBook spot checks are currently blocked by publish-path misalignment or missing sync: representative glossary, KPI, and publication page requests returned `not found` on 2026-03-29
+- None currently identified
 
 ## Session Continuity
 
@@ -80,5 +80,6 @@
 - Formatting and local link verification passed on 2026-03-29 for the active Phase 3 batch after resolving the last broken cross-page references
 - The remaining KPI detail pages were normalized on 2026-03-29, so all glossary, KPI, and publication priority content now follows the Phase 3 summary-first readability model in-repo
 - Repo-side Phase 3 QA passed on 2026-03-29 with clean formatting checks, clean local Markdown link checks, and a full KPI summary-pattern audit
-- Live GitBook spot checks on 2026-03-29 were attempted against representative glossary, KPI, and publication paths, but the published space returned `not found` for those direct page requests, leaving sync or publish alignment as the only remaining blocker to formal Phase 3 closure
-- Recommended next command: `/gsd:execute-phase 3`
+- After pushing `main` on 2026-03-29, live GitBook route checks passed for representative repo-backed glossary, KPI, and publication pages, confirming that the rebuilt structure is publishing under the new paths
+- Phase 3 was closed on 2026-03-29 after repo-side QA, KPI normalization completion, and successful live route-and-content spot checks
+- Recommended next command: `/gsd:plan-phase 4`

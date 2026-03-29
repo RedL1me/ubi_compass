@@ -98,29 +98,29 @@ Copy this block into the session note or planning log after verification:
 
 ### GitBook Verification Result - 2026-03-29
 
-- Sync status: Not yet confirmed from the live space
-- Publishing branch: Not verified in GitBook admin during this repo session
+- Sync status: Repo-backed live paths resolved after pushing `main`
+- Publishing branch: `main` appears to be the effective live branch based on the published route updates
 - Docs root confirmed: `.gitbook.yaml` continues to point publishing at `docs/`
-- Sidebar matches `docs/SUMMARY.md`: Repo-side expected structure is ready, but live published alignment is not yet confirmed
-- Duplicate or orphan pages found: Not fully assessed because representative page paths did not resolve
+- Sidebar matches `docs/SUMMARY.md`: repo-backed route structure is now live; full sidebar-by-sidebar comparison remains a useful follow-up
+- Duplicate or orphan pages found: not observed during representative direct-page checks, but not exhaustively audited in the live sidebar
 
 #### Search checks
 
-- `mentor`: Not completed in the live GitBook UI during this session
-- `jobs created`: Not completed in the live GitBook UI during this session
-- `world rankings`: Not completed in the live GitBook UI during this session
-- `esg`: Not completed in the live GitBook UI during this session
-- `benchmark`: Not completed in the live GitBook UI during this session
+- `mentor`: not checked via native GitBook search UI in this terminal session
+- `jobs created`: not checked via native GitBook search UI in this terminal session
+- `world rankings`: not checked via native GitBook search UI in this terminal session
+- `esg`: not checked via native GitBook search UI in this terminal session
+- `benchmark`: not checked via native GitBook search UI in this terminal session
 
 #### Page checks
 
-- Glossary page checked: direct request to `glossary-of-terms/key-players/mentor` returned `not found`
-- KPI page checked: direct request to `kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-21` returned `not found`
-- Image-backed publication checked: representative direct publication request returned `not found`
-- Video-backed publication checked: not attempted after direct-path failures
-- Related-link journey checked: deferred until the live published paths resolve
+- Glossary page checked: `glossary/key-players/mentor` resolved and served the expected summary-first content
+- KPI page checked: `kpis/ubi-global-benchmark-kpis/sales-revenue` resolved and served the expected KPI structure, including `Summary`, `Interpretation`, and related links
+- Image-backed publication checked: representative rankings-report route resolved; image rendering itself was not visually inspected from the terminal
+- Video-backed publication checked: not visually inspected from the terminal
+- Related-link journey checked: live markdown responses included canonical repo-backed related links; in-browser click-path QA remains a useful follow-up
 
 #### Follow-up actions
 
-- Run the live GitBook sync or publish alignment step so the rebuilt repo routes are present in the published space
-- Re-run the checklist above once live paths resolve
+- Run a lightweight in-browser follow-up for native search snippets, sidebar parity, image rendering, and video embeds
+- Treat the repo-backed route alignment as verified for Phase 3 closure

@@ -32,7 +32,7 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Align publication pages to a consistent summary, publication details, highlights, and access pattern
 - Improve recency and authority cues where source dates are available
 
-### Wave 4 - Reading QA
+### Wave 4 - Reading QA (Complete)
 
 - Spot-check representative glossary, KPI, and publication pages in GitBook
 - Verify pages remain legible on desktop and mobile
@@ -65,4 +65,5 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Link and formatting verification passed on 2026-03-29 for the active Phase 3 batch after resolving the final cross-page reference issues
 - The remaining KPI pages were normalized on 2026-03-29, bringing all `docs/kpis/ubi-global-benchmark-kpis` detail pages onto the summary-first readability pattern and effectively completing Wave 3
 - Repo-side Phase 3 QA passed on 2026-03-29: all KPI detail pages now include `Summary`, publication pages already matched the pattern, `git diff --check` passed, and local Markdown link verification passed for the active batch
-- Live GitBook spot checks on 2026-03-29 remain blocked pending sync or publish alignment: representative direct page requests under glossary, KPI, and publication paths returned `not found`, so Wave 4 cannot be fully closed from the repo alone
+- Live GitBook route-and-content checks passed on 2026-03-29 after pushing `main`: representative pages for `Mentor`, `Sales Revenue`, and `World Rankings Report 2021 - 2022` resolved under the new repo-backed paths and served the expected summary-first content
+- Phase 3 is complete from a content and publishing-structure perspective; remaining GitBook-native search-snippet and visual media checks are now lightweight operational follow-up rather than a Phase 3 blocker
