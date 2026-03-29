@@ -1,0 +1,10 @@
+{
+  "mode": "yolo",
+  "depth": "standard",
+  "parallel": true,
+  "createdAt": "2026-03-29",
+  "notes": [
+    "Initialized from gsd:new-project with recommended defaults.",
+    "Research was skipped during initialization in favor of capturing product intent first."
+  ]
+}
