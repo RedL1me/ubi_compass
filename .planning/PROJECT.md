@@ -2,7 +2,7 @@
 
 ## Product Summary
 
-Compass is an external-facing knowledge and market-intelligence platform for the startup incubator and accelerator industry. It helps students, researchers, universities, government officials, and other ecosystem stakeholders quickly understand current terminology, concepts, and reference material so they can do better market-intelligence work.
+Compass is an external-facing knowledge and market-intelligence library for the startup incubator and accelerator industry. It helps students, researchers, universities, government officials, and other ecosystem stakeholders quickly understand current terminology, concepts, and reference material so they can do better market-intelligence work.
 
 ## Problem
 
@@ -24,7 +24,7 @@ Users can quickly find and confidently understand authoritative incubator and ac
 
 ## V1 Product Intent
 
-V1 is a fully open, searchable, readable public product. Its job is to make Compass useful as a thought-leadership and lead-generation channel for UBI Global, not to serve as a member-only destination.
+V1 is a fully open, searchable, readable public knowledge destination published through GitBook. Its job is to make Compass useful as a thought-leadership and lead-generation channel for UBI Global, not to serve as a member-only destination.
 
 ## V1 Outcomes
 
@@ -37,6 +37,8 @@ V1 is a fully open, searchable, readable public product. Its job is to make Comp
 
 - Public reference today: https://openlibrary.gitbook.io/compass
 - Current public Compass content includes glossary terms, KPIs and metrics, and research/publication material
+- GitBook is the publishing surface, not the long-term editorial source of truth
+- The canonical editable source should live in Markdown in a repository, with Google Docs or Drive used for drafting where helpful
 
 ## Constraints
 
@@ -44,11 +46,13 @@ V1 is a fully open, searchable, readable public product. Its job is to make Comp
 - V1 does not need saved items or concept comparison
 - V1 should prioritize clarity, searchability, readability, and discoverability
 - Product decisions should support lead generation and thought leadership
+- Editors need an easy way to add and maintain images and video alongside terminology content
 
 ## Assumptions
 
 - Compass content will include at least glossary entries, KPI/metric content, and report/publication pages
-- A structured content source or lightweight editorial workflow will exist behind the scenes, but a full editorial operating system is not the primary v1 scope
+- A structured Markdown source and lightweight editorial workflow will exist behind the scenes, but a full editorial operating system is not the primary v1 scope
+- Google Docs may remain part of the drafting workflow, but approved content should be represented in Markdown before publishing
 - Search should work across all public content types, not only glossary terms
 - SEO and shareability matter because public discovery is part of the product strategy
 

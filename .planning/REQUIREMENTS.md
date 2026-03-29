@@ -34,6 +34,7 @@ V1 is a public knowledge platform for the startup incubator and accelerator indu
 
 - `PLAT-01` V1 is fully open with no account creation, login wall, or member-only gating for core Compass content.
 - `PLAT-02` The system supports structured public content across at least glossary, KPI/metric, and report/publication content types.
+- `PLAT-04` The editorial workflow supports publishable images and embedded video without forcing editors to manage GitBook as the canonical source.
 - `PLAT-03` The product captures baseline analytics needed to understand search usage, content engagement, and lead-generation performance.
 
 ## V2 / Deferred
@@ -62,11 +63,12 @@ V1 is a public knowledge platform for the startup incubator and accelerator indu
 | CONT-02 | Phase 3 | Pending |
 | CONT-03 | Phase 3 | Pending |
 | CONT-04 | Phase 3 | Pending |
-| IA-01 | Phase 1 | Pending |
+| IA-01 | Phase 1 | Complete |
 | IA-02 | Phase 3 | Pending |
 | IA-03 | Phase 4 | Pending |
 | LEAD-01 | Phase 4 | Pending |
 | LEAD-02 | Phase 4 | Pending |
-| PLAT-01 | Phase 1 | Pending |
-| PLAT-02 | Phase 1 | Pending |
+| PLAT-01 | Phase 1 | Complete |
+| PLAT-02 | Phase 1 | Complete |
+| PLAT-04 | Phase 1 | Complete |
 | PLAT-03 | Phase 4 | Pending |

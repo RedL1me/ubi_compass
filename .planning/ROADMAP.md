@@ -8,7 +8,7 @@ Compass v1 should launch as a public, searchable industry-intelligence destinati
 
 ### Phase 1 - Public Foundation
 
-**Goal:** Compass has a stable public foundation with clear information architecture and structured content types that support the v1 experience.
+**Goal:** Compass has a stable GitBook publishing foundation with clear information architecture, structured Markdown content, and a workable media pattern for images and video.
 
 **Dependencies:** None
 
@@ -21,6 +21,7 @@ Compass v1 should launch as a public, searchable industry-intelligence destinati
 1. Users can access Compass freely without creating an account or encountering membership gates.
 2. The product exposes a clear top-level structure for glossary, KPI/metric, and report/publication content.
 3. The system can represent the required public content types in a structured way that supports future growth.
+4. Editors have a clear repo-based workflow for managing publishable text, images, and embedded video before content reaches GitBook.
 
 ### Phase 2 - Discovery and Navigation
 
@@ -80,7 +81,7 @@ Compass v1 should launch as a public, searchable industry-intelligence destinati
 
 | Phase | Name | Status |
 |-------|------|--------|
-| 1 | Public Foundation | Pending |
+| 1 | Public Foundation | Complete |
 | 2 | Discovery and Navigation | Pending |
 | 3 | Readable Intelligence Experience | Pending |
 | 4 | Public Reach and Lead Capture | Pending |

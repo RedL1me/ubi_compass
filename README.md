@@ -1,0 +1,29 @@
+# Compass Editorial Repository
+
+This repository is the source of truth for Compass content.
+
+GitBook is the publishing surface, not the canonical authoring system. Content should be maintained in Markdown here and synced to GitBook through Git Sync.
+
+## Repository Layout
+
+- `docs/`: public content that GitBook publishes
+- `editorial/`: internal workflow docs, templates, and publishing guidance
+
+## Editorial Model
+
+The recommended workflow is:
+
+1. Draft in Google Docs or Google Drive if needed.
+2. Convert or copy the approved content into Markdown in `docs/`.
+3. Commit and push changes.
+4. Let GitBook publish from this repository.
+
+## Media Model
+
+- Images should live in `docs/media/` and be referenced from Markdown with relative paths.
+- Video should usually be hosted externally, then embedded in GitBook pages with a public URL.
+- Raw production assets can stay in Drive, but publishable assets should have a stable filename and a clear owning page.
+
+## GitBook Configuration
+
+GitBook is configured to publish from `docs/` via [.gitbook.yaml](/Users/aliamin/Developer/projects/ubiglobalse/ubi_compass/.gitbook.yaml).
