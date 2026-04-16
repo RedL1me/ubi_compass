@@ -10,18 +10,18 @@ Compass is designed to support public discovery, thought leadership, and practic
 
 ## Sections
 
-- [Glossary of Terms](glossary/README.md)
-- [KPIs & Metrics](kpis/README.md)
-- [Publications & Reports](publications/README.md)
+* [Glossary of Terms](glossary/)
+* [KPIs & Metrics](kpis/)
+* [Publications & Reports](publications/)
 
 ## How To Navigate
 
-- Start in the glossary if you need a definition, role, methodology, or concept.
-- Start in KPIs & Metrics if you want to understand how incubators and accelerators measure performance.
-- Start in Publications & Reports if you are looking for benchmark studies, rankings, case studies, or ecosystem research.
+* Start in the glossary if you need a definition, role, methodology, or concept.
+* Start in KPIs & Metrics if you want to understand how incubators and accelerators measure performance.
+* Start in Publications & Reports if you are looking for benchmark studies, rankings, case studies, or ecosystem research.
 
 ## Next Step With UBI Global
 
-- Use Compass first if you need shared language and context before acting.
-- [Explore UBI Academy](https://ubi-global.com/academy?utm_source=compass&utm_medium=gitbook&utm_campaign=compass-home)
-- [Explore UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=compass-home)
+* [Explore UBI Global Membership](https://ubi-global.com/membership?utm_source=compass\&utm_medium=gitbook\&utm_campaign=compass-home)
+* [Explore UBI Academy](https://ubi-global.com/academy?utm_source=compass\&utm_medium=gitbook\&utm_campaign=compass-home)
+* Use Compass as your guide for terminology related to our industry
