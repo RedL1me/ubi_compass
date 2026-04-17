@@ -27,3 +27,17 @@ The recommended workflow is:
 ## GitBook Configuration
 
 GitBook is configured to publish from `docs/` via [.gitbook.yaml](/Users/aliamin/Developer/projects/ubiglobalse/ubi_compass/.gitbook.yaml).
+
+## Contributing to Compass
+
+We actively welcome contributions from the ecosystem to help expand and refine the UBI Global Compass Library! 
+
+Our contribution process requires all submissions to be reviewed by the UBI Global team before publication. We offer two ways to suggest an addition or fix:
+
+1. **Quick Form (No GitHub account needed):**
+   If you have a fast suggestion or want to define a new term, you can submit it via our [Contribution Feedback Form]({INSERT_FORM_LINK_HERE}).
+
+2. **Direct GitHub Web Edits (For technical users):**
+   If you prefer to edit the documentation directly, you can use the **GitHub Web Editor**. Navigate to the specific Markdown file in the `docs/` folder, click the ✏️ (pencil) icon, make your edits, and click **Propose changes** to submit a Pull Request.
+
+Please see our detailed [Contribution Guidelines](CONTRIBUTING.md) for more information.
